@@ -4,7 +4,7 @@
 
 # Eject Magazine
 
-Version 1.0.0  
+Version 1.0.1  
 For Game Version 1.0.4  
 Developed by 18107, Mest  
 Requires:  BepInEx-BepInExPack-5.4.2100, VoidCrewModdingTeam-VoidManager-1.2.5
@@ -22,8 +22,10 @@ Requires:  BepInEx-BepInExPack-5.4.2100, VoidCrewModdingTeam-VoidManager-1.2.5
 
 ### 👥 Multiplayer Functionality
 
-- ✅ All
-  - All players must have this mod installed.
+- ✅ Session
+  - Requires the room to be marked as Mod_Session for functionality.
+  - Marks the room as Mod_Session when hosting.
+  - The player in the gun must have the mod for it to take effect.
 
 ---------------------
 

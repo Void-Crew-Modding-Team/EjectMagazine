@@ -22,8 +22,10 @@ Requires: [Dependencies]
 
 ### 👥 Multiplayer Functionality
 
-- ✅ All
-  - All players must have this mod installed.
+- ✅ Session
+  - Requires the room to be marked as Mod_Session for functionality.
+  - Marks the room as Mod_Session when hosting.
+  - The player in the gun must have the mod for it to take effect.
 
 ---------------------
 
